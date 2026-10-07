@@ -1,4 +1,4 @@
 # hello 
 <p align="center">
-  <img src=".bomma.png" width="700">
+  <img src="https://github.com/saikarthik93/AgileLab/blob/dummy1/bomma.png" width="700">
 </p>
